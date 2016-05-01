@@ -18,7 +18,8 @@ public class CassandraConnector
 
 	
 	public CassandraConnector(){
-		
+
+		//This is the IP of the Machine where cassandra is running
 		//this.node  = "192.168.1.172"; 
 		//this.node  = "172.20.10.5"; 
 		this.node  = "52.39.47.25";

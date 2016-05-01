@@ -1,3 +1,3 @@
 # hello-world
-# original owner: Nijo Varghese
+# Author: Nijo Varghese
 This is the hello world project for cassandra POC
